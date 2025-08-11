@@ -3,7 +3,8 @@ This project provides MATLAB scripts and functions for analyzing " Social norms 
 
 **Running the scripts**  
 Scripts were run in Matlab, version 2019a.  
-Figures can be reproduced by running the corresponding .m file named after the figure inside the figure_script folder. However, the figure_script, data, and functions folders must be located within the same parent directory.  
+Figures can be reproduced by running the corresponding **.m file** named after the figure inside the **Figure_script** folder.  
+However, the Figure_script, data, and functions folders must be located within the same parent directory.  
 
 
 **Data structure**  
