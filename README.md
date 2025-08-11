@@ -5,6 +5,7 @@ This project provides MATLAB scripts and functions for analyzing " Social norms 
 Scripts were run in Matlab, version 2019a.  
 Figures can be reproduced by running the corresponding .m file named after the figure inside the figure_script folder. However, the figure_script, data, and functions folders must be located within the same parent directory.  
 
+
 **Data structure**  
 1. Each EXP#_data.mat file contains both EXP#_questionnaire_data and EXP#_rating_data.
 2. EXP#_rating_data contains the response data from the craving rating task.
@@ -16,6 +17,7 @@ Figures can be reproduced by running the corresponding .m file named after the f
    - **conflict**: the difference between feedback and initial rating (feedback - initial_rating)
    - **second_rating**: craving rating for the same stimulus on the following day (day2)
    - **rating_diff**: change in craving rating from day1 to day2 for each stimulus (second_rating - initial_rating)  
+
 
 **Measured variables**  
 EXP#_questionnaire_data contains each participant’s questionnaire response data.  
