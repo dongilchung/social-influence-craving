@@ -22,7 +22,7 @@ However, the Figure_script, data, and functions folders must be located within t
 
 **Measured variables**  
 EXP#_questionnaire_data contains each participant’s questionnaire response data.  
-- **Gender_M1_F2** represents gender: 1 = Male, 2 = female.
+- **Gender_M1_F2** represents gender: 1 = Male, 2 = Female.
 - **Age** represents participants’ age.
 - **Smoking1_Past2** represents participants’ smoking status: 1 = smoker, 2 = past-smoker.
 - **Education** represents participants’ level of education
