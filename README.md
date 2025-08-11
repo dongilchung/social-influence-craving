@@ -1,7 +1,7 @@
 # social-influence-craving
 This project provides MATLAB scripts and functions for analyzing " Social norms modulate asymmetric effects of group opinions on cue-induced smoking craving", and details for variables measured in this study.  
 
-**Running the scripts**
+**Running the scripts**  
 Scripts were run in Matlab, version 2019a.  
 Figures can be reproduced by running the corresponding .m file named after the figure inside the figure_script folder. However, the figure_script, data, and functions folders must be located within the same parent directory.  
 
